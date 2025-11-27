@@ -1,0 +1,7 @@
+{
+  "name": "Cartografias Pluriversais",
+  "description": "Um ambiente digital sensorial que oferece aos designers sobrecarregados um refúgio da lógica produtivista, convidando-os a desacelerar, reconectar-se e redescobrir o prazer do fazer criativo através da criação de mapas poéticos e pessoais.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
